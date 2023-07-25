@@ -1,5 +1,5 @@
 # NeoReddit
-this is Reddit project with python and django with help of DRF (beginer)
+### NeoReddit is a beginner-level Reddit-like project built with Python and Django, utilizing the Django Rest Framework (DRF).
 ## Installation
 1.Clone the repository:
 + git clone https://github.com/your_username/NeoReddit.git
